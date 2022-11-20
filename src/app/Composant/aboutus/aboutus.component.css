@@ -1,6 +1,9 @@
-*{
+/* *{
     background-color:#e8e0d5;
         color: black;
+}*/
+.test{
+    background-color:#e8e0d5;
 }
 .id1{
    
@@ -70,12 +73,12 @@ h3{
     opacity: 1.1;
     
 }
-.card:hover{
+/*.card:hover{
     box-shadow:  4px 4px #57483c  ;
     transform: scale(1.05);
     transition: .5s;
     
-}
+}*/
 .img2{
 
     width:38%;
@@ -146,7 +149,7 @@ padding-top:40px;
 .loula{
     width: 300px;
     height: 17px;
-    background-color:#3d332e ;
+    background-color:#99857b ;
     border-radius:5px;
     
 }
@@ -205,7 +208,7 @@ padding-top:40px;
 }
 .thenya{
 border-radius: 5px;
-background-color: #734a31
+background-color: #a67454
 }
 
 
